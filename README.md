@@ -4,6 +4,14 @@
 
 This application leverages the Dash framework and AI models to provide dental diagnosis and treatment recommendations. It offers multiple input methods (audio recording, chat, questionnaire) to gather patient information and utilizes machine learning models to process the input and generate actionable insights.
 
+FYI, the tool, is not accurate using these Large ML models and other classic ML algorithms for classification(
+* DT
+* SVM
+* RF
+* whisper-large-v2
+* Mixtral-8x7B-Instruct-v0.1
+)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
