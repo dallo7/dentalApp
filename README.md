@@ -53,9 +53,10 @@ This application leverages the Dash framework and AI models to provide dental di
 
 ```bash
 pip install -r requirements.txt                    
-  
-```bash
+
+*run app.py*
 python app.py
+```
 
 Usage
 1. Access the App: Open your web browser and navigate to the app's URL.
