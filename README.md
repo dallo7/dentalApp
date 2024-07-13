@@ -1,6 +1,12 @@
-# Dash Community Dentals - AI-Powered Diagnosis & Treatment Tool
+# This is a Plotly Dash Demo for an AI powered Dental Diagnosis and Treatment Tool
+#  Dash Community!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+[![Dash](https://img.shields.io/badge/Dash-v2-orange)](https://dash.plotly.com/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange.svg)](https://scikit-learn.org/stable/)
+[![Made with ML](https://img.shields.io/badge/Made%20with-ML-red)](https://github.com/madewithml)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 This application leverages the Dash framework and AI models to provide dental diagnosis and treatment recommendations. It offers multiple input methods (audio recording, chat, questionnaire) to gather patient information and utilizes machine learning models to process the input and generate actionable insights.
 
