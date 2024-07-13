@@ -51,8 +51,10 @@ This application leverages the Dash framework and AI models to provide dental di
    git clone <repository-url>
    cd <repository-name>
 
-pip install -r requirements.txt
-
+```bash
+pip install -r requirements.txt                    
+  
+```bash
 python app.py
 
 Usage
