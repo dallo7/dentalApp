@@ -6,8 +6,7 @@
 [![Dash](https://img.shields.io/badge/Dash-v2-orange)](https://dash.plotly.com/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange.svg)](https://scikit-learn.org/stable/)
 [![Made with ML](https://img.shields.io/badge/Made%20with-ML-red)](https://github.com/madewithml)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 This application leverages the Dash framework and AI models to provide dental diagnosis and treatment recommendations. It offers multiple input methods (audio recording, chat, questionnaire) to gather patient information and utilizes machine learning models to process the input and generate actionable insights.
 
 FYI, the tool, is not accurate especially the text generation. I am using Large NN models and classic ML algorithms for classification(
