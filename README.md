@@ -9,11 +9,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 This application leverages the Dash framework and AI models to provide dental diagnosis and treatment recommendations. It offers multiple input methods (audio recording, chat, questionnaire) to gather patient information and utilizes machine learning models to process the input and generate actionable insights.
-
-<video width="500" height="600" controls>
-  <source src="https://github.com/dallo7/dentalApp/blob/caa55f60d2b74f2f6eba08006112584ec7bba8e8/dentalDecay.mp4" type="video/mp4"> 
-  Your browser does not support the video tag.
-</video>
+                    
+[![Video Thumbnail Image](https://github.com/dallo7/dentalApp/blob/16629fccf0c875b1ba9a9402b1cd3909ed0bbb97/dental.png)](https://github.com/dallo7/dentalApp/blob/caa55f60d2b74f2f6eba08006112584ec7bba8e8/dentalDecay.mp4)                      
+  
 
 FYI, the tool, is not accurate especially the text generation. I am using Large NN models and classic ML algorithms for classification(
 * DT
