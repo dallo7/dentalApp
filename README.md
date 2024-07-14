@@ -12,7 +12,8 @@ This application leverages the Dash framework and AI models to provide dental di
 
 
 [![Video Thumbnail Image](https://github.com/dallo7/dentalApp/blob/726062dd11f33143f6434709b12847a1e1733263/dentalDecay.gif)]()                                        
-[![Video Thumbnail Image](https://github.com/dallo7/dentalApp/blob/3d9aa92cb14a18f598fc9ea6137dd65c9288f79f/dental.png)](https://github.com/dallo7/dentalApp/blob/726062dd11f33143f6434709b12847a1e1733263/dentalDecay.gif)                      
+[![Video Thumbnail Image](https://github.com/dallo7/dentalApp/blob/3d9aa92cb14a18f598fc9ea6137dd65c9288f79f/dental.png)](https://github.com/dallo7/dentalApp/blob/726062dd11f33143f6434709b12847a1e1733263/dentalDecay.gif)    
+  
 
 FYI, the tool, is not accurate especially the text generation. I am using Large NN models and classic ML algorithms for classification(
 * DT
