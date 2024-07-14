@@ -11,7 +11,7 @@
 This application leverages the Dash framework and AI models to provide dental diagnosis and treatment recommendations. It offers multiple input methods (audio recording, chat, questionnaire) to gather patient information and utilizes machine learning models to process the input and generate actionable insights.
 
 <video width="500" height="600" controls>
-  <source src="dentalDecay.mp4" type="video/mp4"> 
+  <source src="https://github.com/dallo7/dentalApp/blob/caa55f60d2b74f2f6eba08006112584ec7bba8e8/dentalDecay.mp4" type="video/mp4"> 
   Your browser does not support the video tag.
 </video>
 
